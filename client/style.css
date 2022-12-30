@@ -148,3 +148,13 @@ form img {
   width: 30px;
   height: 30px;
 }
+
+#footer {
+  color: #757575;
+  display: flex;
+}
+
+a:visited {
+  color: inherit;
+  text-decoration: none;
+}
