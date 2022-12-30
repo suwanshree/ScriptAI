@@ -28,6 +28,9 @@ body {
   height: 100%;
   overflow-y: scroll;
 
+  background-image: url("https://res.cloudinary.com/dn0ocfiva/image/upload/b_rgb:343541,o_9/v1672370369/star-yelp/aot_cd4f6n.jpg");
+  background-position: center;
+
   display: flex;
   flex-direction: column;
   gap: 10px;
@@ -50,7 +53,7 @@ body {
 }
 
 .ai {
-  background: #40414f;
+  background: rgba(64, 65, 79, 0.8);
 }
 
 .chat {
