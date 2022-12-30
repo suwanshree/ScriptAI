@@ -152,6 +152,12 @@ form img {
 #footer {
   color: #757575;
   display: flex;
+  padding: 5px;
+  font-size: 0.8em;
+}
+
+a {
+  color: inherit;
 }
 
 a:visited {
